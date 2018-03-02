@@ -1,0 +1,47 @@
+body {
+	
+ background-image: url('../images/portfolioimage.jpg');
+    
+}
+
+h1, p {
+	text-align: center;
+}
+h1 {
+	font-style: italic;
+	font-weight: bold;
+	color: tomato;
+	font-size: 25px;
+}
+
+p {
+	padding: 8px;
+	color: white;
+	font-size: 20px;
+}
+
+.container {
+	margin: auto;
+	width: 50%;
+	padding: 45px;  
+
+}
+
+#connect, #nav {
+	text-align: center;
+}
+
+#connect {
+	width: 350px;
+}
+
+.main-section {
+	padding: 55px;
+
+}
+
+.p-image {
+	margin: 5px;
+    border: 1px solid #ccc;
+    width: 160px;
+}
